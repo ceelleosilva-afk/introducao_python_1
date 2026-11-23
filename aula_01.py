@@ -1,0 +1,5 @@
+print("Ola sou Leandro")
+print("")
+print("moro no fundao")
+print("tenho 19 anos")
+print("a coisa que mais gosto e jogar")
